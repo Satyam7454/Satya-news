@@ -27,4 +27,3 @@ const UseMyNewsContext = () => {
 };
 
 export { MyNewsContextProvider, UseMyNewsContext };
-
